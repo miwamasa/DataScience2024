@@ -39,7 +39,7 @@
 |---|---|---|---|---|
 |Lecture1|4/9(火) |はじめに||
 |||Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture1.ipynb)|ok|
-|||ColabによるAlpaca-LoRA| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture1_alpaca_lora.ipynb)|ok|
+|||ColabでLLMを動かす| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture1_nekomata7b_test.ipynb)|ok|
 |Lecture2|4/12(金) |Python入門、統計の復習|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture2.ipynb)|ok|
 |Lecture3|4/16(火) |データの取得と操作| <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture4.ipynb) --> |ok|
 |||pandasの利用|<!--  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture4_pandas.ipynb)-->|ok|
