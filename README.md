@@ -51,28 +51,28 @@
 |Lecture5|4/23(火)|統計分布の基礎 |<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture6.ipynb) -->|in preparation|
 |Lecture6|4/26(金)|回帰分析1|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture7.ipynb)-->|in preparation|
 |||事例(Game)|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture7_games.ipynb)-->|in preparation|
-|Lecture7|4/30(火)|回帰分析2|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture8.ipynb)-->|ok|
+|Lecture7|5/7(火)|回帰分析2|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture8.ipynb)-->|ok|
 |||重回帰分析（変数選択）|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture8_AIC.ipynb)-->|in preparation|
 |||重回帰分析（交絡因子）|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture8_multiple_regression.ipynb)-->|in preparation|
 |||重回帰分析（ダミー変数）|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture8_multi_reg_category.ipynb)-->|in preparation|
-|Lecture8|5/7(火)|パターン認識1|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture9.ipynb)-->|in preparation|
+|Lecture8|5/10(金)|パターン認識1|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture9.ipynb)-->|in preparation|
 |||SVMの例|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture9_SVM.ipynb)-->|in preparation|
 |||SVMを最適化で解く|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture9_svm_optimize.ipynb)-->|in preparation|
-|Lecture9|5/10(金)|パターン認識2|
+|Lecture9|5/14(火)|パターン認識2|
 |||クラス分類|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture10_classification.ipynb)-->|in preparation|
 |||クラスタリング|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture10_clustering.ipynb)-->|in preparation|
-|Lecture10|5/14(火)|動的システムの表現|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture11.ipynb)-->|in preparation|
-|Lecture11|5/17(金)|時系列|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture12.ipynb)-->|in preparation|
-|Lecture12|5/21(火)|状態空間モデル|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture13.ipynb)-->|in progress|
+|Lecture10|5/17(金)|動的システムの表現|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture11.ipynb)-->|in preparation|
+|Lecture11|5/21(火)|時系列|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture12.ipynb)-->|in preparation|
+|Lecture12|5/24(金)|状態空間モデル|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture13.ipynb)-->|in progress|
 |||周波数分析|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture13_frequency.ipynb)-->|in preparation|
-|Lecture13|5/24(金)|画像分析|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture14.ipynb)-->|in preparation|
-|Lecture14|5/28(火)|LLM時代のデータサイエンスとは|
+|Lecture13|5/28(火)|画像分析|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture14.ipynb)-->|in preparation|
+|Lecture14|5/31(金)|LLM時代のデータサイエンスとは|
 |||Transformer入門|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_intro.ipynb)-->|in preparation|
 |||テキスト生成|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_textgeneration.ipynb)-->|in preparation|
 |||Q&A|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_qanda.ipynb)-->|in preparation|
 |||ChatGPTでtitanic|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/pandas_agent_sample.ipynb)--> |in preparation|
-|Lecture15|5/31(金)|発展的話題とまとめ|
-|予備|6/4(土)|
+|Lecture15|6/4(金)|発展的話題とまとめ|
+|予備|6/7(火)|
 
 
 <!-- |Lecture3|4/13(水)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture3_matplotlib.ipynb)|in_progress|
