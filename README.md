@@ -46,9 +46,8 @@
 |||pandasの利用| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture3_pandas.ipynb)|ok|
 |||実習|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture3_practice.ipynb)|ok|
 |Lecture4|4/19(金)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture4_matplotlib.ipynb)|ok|
-|||「マンガと学ぶデータビジュアライゼーション」| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture4_extra_1.ipynb) |in preparation|
-|||Extra(アンケート結果)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/aiit_query_process2024.ipynb) |in preparation|
-|||ChatGPTでtitanic| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/pandas_agent_sample.ipynb) |ok|
+|||マンガで学ぶ..「1.棒グラフ」| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture4_extra_1.ipynb) |ok|
+|||Extra(アンケート結果)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/aiit_query_process2024.ipynb) |ok|
 |Lecture5|4/23(火)|統計分布の基礎 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture5.ipynb)|in preparation|
 |Lecture6|4/26(金)|回帰分析1|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture7.ipynb)-->|in preparation|
 |||事例(Game)|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture7_games.ipynb)-->|in preparation|
@@ -71,7 +70,7 @@
 |||Transformer入門|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_intro.ipynb)-->|in preparation|
 |||テキスト生成|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_textgeneration.ipynb)-->|in preparation|
 |||Q&A|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_qanda.ipynb)-->|in preparation|
-|||ChatGPTでtitanic|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/pandas_agent_sample.ipynb)--> |in preparation|
+|||ChatGPTでtitanic| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/pandas_agent_sample.ipynb) |ok|
 |Lecture15|6/4(金)|発展的話題とまとめ|
 |予備|6/7(火)|
 
