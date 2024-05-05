@@ -70,7 +70,7 @@
 |||Transformer入門|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_intro.ipynb)-->|in preparation|
 |||テキスト生成|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_textgeneration.ipynb)-->|in preparation|
 |||Q&A|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_qanda.ipynb)-->|in preparation|
-|||ChatGPTでtitanic| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/pandas_agent_sample2024.ipynb) |ok|
+|||LLMでtitanic分析| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/CSV_agents_ollama.ipynb) |ok|
 |Lecture15|6/4(金)|発展的話題とまとめ|
 |予備|6/7(火)|
 
