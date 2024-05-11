@@ -64,7 +64,7 @@
 |Lecture10|5/17(金)|動的システムの表現| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture10.ipynb)|in preparation|
 |Lecture11|5/21(火)|時系列|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture11.ipynb)|in preparation|
 |Lecture12|5/24(金)|状態空間モデル|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture12.ipynb)|in progress|
-|||周波数分析|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture13_frequency.ipynb)-->|in preparation|
+|||周波数分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture12_frequency.ipynb)|in preparation|
 |Lecture13|5/28(火)|画像分析|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture14.ipynb)-->|in preparation|
 |Lecture14|5/31(金)|LLM時代のデータサイエンスとは|
 |||Transformer入門|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec15_transformer_intro.ipynb)-->|in preparation|
