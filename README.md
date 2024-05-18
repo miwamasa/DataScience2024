@@ -68,7 +68,7 @@
 |Lecture13|5/28(火)|画像分析|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lecture14.ipynb)-->|in preparation|
 |Lecture14|5/31(金)|LLM時代のデータサイエンスとは|
 |||Transformer入門|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec14_transformer_intro.ipynb)|in preparation|
-|||テキスト生成|<[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec14_transformer_textgeneration.ipynb)|in preparation|
+|||テキスト生成|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec14_transformer_textgeneration.ipynb)|in preparation|
 |||Q&A|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/lec14_transformer_qanda.ipynb)|in preparation|
 |||LLMでtitanic分析| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2024/blob/main/notebooks/CSV_agents_ollama.ipynb) |ok|
 |Lecture15|6/4(金)|発展的話題とまとめ|
